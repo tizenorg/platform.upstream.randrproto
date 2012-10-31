@@ -1,5 +1,5 @@
 Name:           randrproto
-Version:        1.4
+Version:        1.4.0
 Release:        1
 License:        MIT
 Summary:        X
