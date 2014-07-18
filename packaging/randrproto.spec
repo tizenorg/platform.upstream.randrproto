@@ -1,3 +1,5 @@
+%bcond_with x
+
 Name:           randrproto
 Version:        1.4.0
 Release:        1
